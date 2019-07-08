@@ -1,6 +1,6 @@
 # MD5
 
-## Example Golang - Generate MD5
+## Example Golang - Generate MD5 (text mode)
 
 # How To Use
 
