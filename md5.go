@@ -12,7 +12,7 @@ import (
 
 func main() {
 
-	switch args := os.Args[1]; args {
+	switch os.Args[1] {
 	case "-f":
 		f, err := os.Open(os.Args[2])
 		if err != nil {
